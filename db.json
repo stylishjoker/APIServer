@@ -1,16 +1,4 @@
 {
-  "courses": [
-    {
-      "name": "Lập trình C++",
-      "description": "rất dễ học ngu lắm",
-      "id": 1
-    },
-    {
-      "name": "Lập trình C++",
-      "description": "rất khó",
-      "id": 2
-    }
-  ],
   "account": [
     {
       "account": "taikhoan01",
